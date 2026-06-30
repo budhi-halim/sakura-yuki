@@ -1,0 +1,156 @@
+{
+  "compositions": [
+    {
+      "id": "rooftop-garden",
+      "name": "Rooftop Garden Cafe",
+      "clothing": [
+        "stylish semi-revealing silk halter top",
+        "semi-revealing backless satin dress",
+        "semi-revealing sheer chiffon blouse",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "sitting at a mosaic-tiled table delicately holding a crystal cocktail glass by its stem",
+        "leaning gracefully against the wrought-iron trellis looking over her shoulder",
+        "standing at the balcony edge with arms resting on the railing, looking out at the skyline",
+        "adjusting a loose strand of hair behind her ear while looking softly at the camera",
+        "or other interactive poses"
+      ],
+      "environment": "highly detailed, bustling outdoor rooftop garden cafe, intricate wrought-iron trellises woven with climbing ivy, out-of-focus patrons chatting at mosaic-tiled tables, dense city skyline in the distance",
+      "lighting": "clear and breezy weather, natural golden hour sunlight, warm cinematic rim lighting, complex realistic shadows"
+    },
+    {
+      "id": "antique-clockmaker",
+      "name": "Antique Clockmaker's Shop",
+      "clothing": [
+        "semi-revealing intricately patterned lace top",
+        "semi-revealing off-shoulder velvet corset",
+        "semi-revealing unbuttoned silk shirt",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "arms raised tying her long hair into a messy bun with fingers weaving through the strands",
+        "leaning intimately over a glass display case examining scattered brass gears",
+        "reaching up to delicately wind the hands of a towering grandfather clock",
+        "sitting on a wooden stool gently wiping a vintage clock face with a cloth",
+        "or other interactive poses"
+      ],
+      "environment": "cluttered, dimly lit antique clockmaker's shop, heavily detailed, dozens of ornate grandfather clocks, scattered brass gears, glass display cases, thick volumetric dust motes floating in the air",
+      "lighting": "strong dramatic shaft of sunlight beaming through a brightly colored stained-glass window, complex multicolored geometric shadows"
+    },
+    {
+      "id": "neon-cyberpunk",
+      "name": "Neon Cyberpunk Alley",
+      "clothing": [
+        "semi-revealing techwear crop top with straps",
+        "semi-revealing holographic vinyl jacket over a bralette",
+        "semi-revealing asymmetric cyberpunk bodysuit",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "squatting gracefully next to a glowing puddle reflecting the neon lights",
+        "leaning against a graffiti-covered brick wall with one foot resting flat on the bricks",
+        "looking intensely over her shoulder while walking past a glowing vending machine",
+        "reaching up to adjust the collar of her jacket with a glowing cityscape behind her",
+        "or other interactive poses"
+      ],
+      "environment": "futuristic cyberpunk alleyway, glowing neon signs in cyan and magenta, wet asphalt with rain puddles, dense urban infrastructure with exposed pipes",
+      "lighting": "vibrant neon rim lighting, high contrast HDR, sharp specular reflections on wet surfaces, moody atmospheric haze"
+    },
+    {
+      "id": "night-market",
+      "name": "Traditional Night Food Stall",
+      "clothing": [
+        "semi-revealing casual ribbed tank top",
+        "semi-revealing cropped linen shirt",
+        "semi-revealing lightweight off-shoulder summer top",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "holding a skewer of street food near her mouth playfully",
+        "leaning over a wooden counter warmly interacting with the vendor",
+        "sitting comfortably on a small plastic stool eating from a steaming bowl",
+        "walking through the dense crowd looking back while holding a glowing paper lantern",
+        "or other interactive poses"
+      ],
+      "environment": "bustling Southeast Asian night market, a glowing traditional food stall with steam rising from large cooking pots, hanging paper lanterns, lively atmospheric background",
+      "lighting": "warm golden light from tungsten bulbs, glowing steam catching the light, rich vibrant street lighting, soft cinematic depth of field"
+    },
+    {
+      "id": "crystal-cavern",
+      "name": "Luminescent Crystal Cave",
+      "clothing": [
+        "semi-revealing ethereal gossamer dress",
+        "semi-revealing crystalline mesh top",
+        "semi-revealing metallic silver bikini top with sheer draping",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "kneeling delicately touching the edge of the reflective underground pool",
+        "leaning casually against a giant glowing amethyst crystal",
+        "reaching out with fingertips to graze a glowing stalactite",
+        "sitting on a smooth damp rock looking up in awe at the cavern ceiling",
+        "or other interactive poses"
+      ],
+      "environment": "massive underground cavern, giant glowing amethyst and quartz crystals, shallow reflective underground pool, mystical and ancient atmosphere",
+      "lighting": "bioluminescent glowing light from the crystals, cool purple and blue ambient lighting, soft magical glow, deep shadows in the background"
+    },
+    {
+      "id": "industrial-ruins",
+      "name": "Overgrown Industrial Ruins",
+      "clothing": [
+        "semi-revealing distressed tactical gear with sports bra",
+        "semi-revealing torn cargo crop top",
+        "semi-revealing rugged wasteland scavenger outfit",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "sitting boldly on a rusted steel beam looking down at the camera",
+        "climbing gracefully over a collapsed mossy concrete block",
+        "leaning back against a vine-covered industrial wall with arms crossed",
+        "pushing aside thick hanging vines to look directly into the lens",
+        "or other interactive poses"
+      ],
+      "environment": "abandoned industrial factory reclaimed by nature, thick green moss covering rusted steel beams, collapsed concrete ceiling, overgrown foliage and vines",
+      "lighting": "dappled sunlight breaking through the collapsed roof, dusty air catching the light rays, high contrast natural lighting, post-apocalyptic HDR"
+    },
+    {
+      "id": "luxury-train",
+      "name": "Luxury Train Cabin",
+      "clothing": [
+        "semi-revealing vintage silk slip dress",
+        "semi-revealing plunging neckline velvet gown",
+        "semi-revealing lace corset",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "gazing wistfully out the window while resting her chin elegantly on her hand",
+        "sitting sideways on the velvet seat with her legs pulled up comfortably",
+        "leaning against the mahogany doorway of the cabin invitingly",
+        "delicately holding a vintage teacup over the small cabin table",
+        "or other interactive poses"
+      ],
+      "environment": "vintage luxury train cabin interior, mahogany wood paneling, velvet seats, countryside rushing by outside the window, romantic travel aesthetic",
+      "lighting": "warm glowing tungsten table lamps, soft natural light passing through the window, moody and elegant cinematic lighting"
+    },
+    {
+      "id": "zen-garden",
+      "name": "Tranquil Zen Garden",
+      "clothing": [
+        "semi-revealing modernized silk kimono top",
+        "semi-revealing draped linen wrap",
+        "semi-revealing floral backless top",
+        "or other semi-revealing outfits"
+      ],
+      "poses": [
+        "kneeling gracefully on the wooden deck holding a cup of steaming matcha",
+        "squatting near the sand garden trailing her fingers lightly just above the gravel",
+        "reaching up to gently touch a blooming cherry blossom branch",
+        "sitting peacefully with her hands folded softly in her lap",
+        "or other interactive poses"
+      ],
+      "environment": "traditional Japanese zen garden, perfectly raked white sand, large smooth stones, bamboo water fountain, blooming cherry blossom trees in the background",
+      "lighting": "soft diffused morning sunlight, peaceful and serene lighting, ethereal spring atmosphere, low contrast"
+    }
+  ]
+}
