@@ -1,7 +1,5 @@
 :root {
   color-scheme: light dark;
-
-  /* Elegant OKLCH Palette */
   --bg-color: light-dark(oklch(98% 0.005 250), oklch(14% 0.005 250));
   --card-bg: light-dark(oklch(100% 0 0), oklch(18% 0.005 250));
   --text-primary: light-dark(oklch(20% 0.01 250), oklch(95% 0.005 250));
@@ -10,7 +8,6 @@
   --border-color: light-dark(oklch(92% 0.01 250), oklch(25% 0.01 250));
   --hover-bg: light-dark(oklch(95% 0.01 250), oklch(22% 0.01 250));
 
-  /* Original Default Textures Restored */
   --default-wood-light: url('/assets/wood-light-default.jpg');
   --default-wood-dark: url('/assets/wood-dark-default.jpg');
   --default-wood-mahogany: url('/assets/wood-mahogany-default.jpg');
@@ -29,22 +26,28 @@ body {
   line-height: 1.6;
   display: flex;
   justify-content: center;
-  padding: 3rem 1.5rem;
+  padding: 2rem 1.5rem;
+  height: 100svh; /* Lock body height to the viewport */
+  overflow: hidden; /* Prevent full-page scrolling */
 }
 
 .main-container {
-  max-width: 800px; 
+  max-width: 1000px; /* Widened to cut empty side space */
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .header-section {
   text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
+  flex-shrink: 0; /* Prevent header from shrinking */
 }
 
 .main-title {
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   font-weight: 400;
   letter-spacing: 0.02em;
 }
@@ -57,19 +60,33 @@ body {
 .sub-title {
   color: var(--text-muted);
   font-size: 0.95rem;
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
 
 .controls-section {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row; /* 2-column layout */
+  gap: 1.5rem;
+  width: 100%;
+  flex-shrink: 0; /* Prevent controls from shrinking */
+}
+
+.control-group {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  gap: 0.5rem;
+  flex: 1; /* Makes both columns take equal width */
+  min-width: 0; /* Prevents flex blowout on narrow screens */
+}
+
+.control-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.25rem;
 }
 
 .select-label {
@@ -78,29 +95,47 @@ body {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--text-muted);
-  text-align: center;
 }
 
-/* --- Experimental Select Styling --- */
 select.theme-select,
 ::picker(select) {
   appearance: base-select;
 }
 
 select.theme-select {
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1rem; /* Slightly reduced padding to save vertical space */
   border-radius: 4px;
   border: 1px solid var(--border-color);
   background: var(--card-bg);
   color: var(--text-primary);
-  font-size: 1rem;
+  font-size: 0.95rem;
   cursor: pointer;
   transition: border-color 0.3s ease;
+  width: 100%;
+  
+  /* Truncate long text */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-select.theme-select:hover {
+/* Ensure the experimental inner elements also truncate properly */
+select.theme-select button,
+selectedcontent {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+select.theme-select:hover:not(:disabled) {
   border-color: var(--accent-color);
   outline: none;
+}
+
+select.theme-select:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
 }
 
 select.theme-select::picker-icon {
@@ -120,6 +155,11 @@ select.theme-select:open::picker-icon {
   opacity: 0;
   transition: all 0.3s allow-discrete;
   top: calc(anchor(bottom) + 8px);
+  
+  /* CRITICAL FIX: Limit the popover's maximum width so children are forced to truncate */
+  /* 480px roughly matches the width of the 2-column select box in a 1000px container */
+  max-width: 480px; 
+  overflow-x: hidden;
 }
 
 :open::picker(select) {
@@ -133,14 +173,22 @@ select.theme-select:open::picker-icon {
 }
 
 option {
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1rem; /* Matched with select padding */
   background: var(--card-bg);
   transition: background 0.2s;
   cursor: pointer;
+  
+  /* CRITICAL FIX: Block display enforces the boundaries required for text-overflow in lists */
+  display: block;
+  width: 100%;
+  
+  /* Truncate long text in dropdown menu */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-option:hover,
-option:focus {
+option:hover, option:focus {
   background: var(--hover-bg);
   color: var(--accent-color);
 }
@@ -156,30 +204,33 @@ option::checkmark {
   color: var(--accent-color);
 }
 
-/* --- Outputs Section --- */
 .outputs-section {
   display: flex;
   justify-content: center;
   width: 100%;
+  flex-grow: 1; /* Allow section to take remaining vertical space */
+  min-height: 0; /* Critical: allows child flex item to scroll instead of overflow */
 }
 
-vfx-box.prompt-card {
+.prompt-card {
   background: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 4px;
-  padding: 2rem;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
   width: 100%;
+  height: 100%; /* Fill outputs-section */
 }
 
 .card-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
   border-bottom: 1px solid var(--border-color);
   padding-bottom: 0.75rem;
+  flex-shrink: 0; /* Keep header visible */
 }
 
 .card-title {
@@ -190,13 +241,41 @@ vfx-box.prompt-card {
   letter-spacing: 0.1em;
 }
 
+.prompt-box-container {
+  flex-grow: 1;
+  min-height: 0;
+  overflow-y: auto; /* Scroll only inside this container */
+  scrollbar-gutter: stable both-edges; /* Preserves layout shift elegantly */
+  
+  /* Standard syntax (Firefox) */
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-color) transparent;
+}
+
+/* Webkit custom scrollbar (Chrome, Safari, Edge) */
+.prompt-box-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.prompt-box-container::-webkit-scrollbar-track {
+  background: transparent; /* Makes the track invisible */
+}
+
+.prompt-box-container::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
+  border-radius: 10px;
+}
+
+.prompt-box-container::-webkit-scrollbar-thumb:hover {
+  background-color: var(--text-muted); /* Darkens slightly when hovered */
+}
+
 .prompt-box {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
   font-size: 0.95rem;
   color: var(--text-muted);
   line-height: 1.8;
   white-space: pre-wrap;
-  flex-grow: 1;
 }
 
 .prompt-box.generated-text {
@@ -218,6 +297,15 @@ vfx-box.prompt-card {
   color: var(--accent-color);
 }
 
+.copy-btn.mini-copy {
+  padding: 0.25rem;
+}
+
+.copy-btn.mini-copy svg {
+  width: 16px;
+  height: 16px;
+}
+
 .icon-copy, .icon-check {
   width: 18px;
   height: 18px;
@@ -226,4 +314,15 @@ vfx-box.prompt-card {
 
 .hidden-icon {
   display: none;
+}
+
+/* Responsive fallback for smaller screens */
+@media (max-width: 768px) {
+  .controls-section {
+    flex-direction: column;
+  }
+  
+  ::picker(select) {
+    max-width: calc(100vw - 3rem); /* Keep popover within screen limits on mobile */
+  }
 }

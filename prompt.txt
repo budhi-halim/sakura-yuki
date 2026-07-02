@@ -1,0 +1,3 @@
+One final adjustment:
+
+You have fixed the "This word is too long ..." issue, but only for the text in the "original drop down container". I don't know what it's called, I hope you understand. When I click it and it shows the list, the long texts are still not wrapped. Please update the code so the "..." logic is applied both to the original drop down box and the list of drop down itself. Do not forget that both the theme and variation should have this feature. Send the full code for files that need changes
