@@ -2,8 +2,7 @@ let themesData = [];
 
 async function init() {
   const response = await fetch('./data.json');
-  const data = await response.json();
-  themesData = data.themes;
+  themesData = await response.json();
 
   const themeSelect = document.getElementById('theme-select');
   const variationSelect = document.getElementById('variation-select');

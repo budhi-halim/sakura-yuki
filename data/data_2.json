@@ -1,0 +1,94 @@
+[
+  {
+    "id": "opulent-omakase",
+    "name": "Opulent Omakase Sushi Bar",
+    "variations": [
+      {
+        "id": "red-silk-holding-chopsticks",
+        "name": "Red Silk, Holding Chopsticks",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing ruby red silk plunge dress. She is sitting on a wooden stool at a sleek, minimalist omakase sushi counter. Her weight is supported by the stool, with her left forearm resting flat on the clean wooden counter. Her right hand elegantly holds wooden chopsticks, hovering just above a ceramic plate of sushi. She is looking slightly off-camera toward the chef with a bright, anticipatory smile. The background features blurred bamboo walls, warm paper lanterns, and neatly arranged sake bottles. Studio-quality High Dynamic Range (HDR) lighting. A warm, focused overhead spotlight acts as the key light, illuminating her face and the sushi, while casting a soft specular highlight on the silk dress. A cool ambient light from the street outside provides a subtle rim light on her dark hair. Photorealistic, 50mm lens, sitting eye-level angle."
+      },
+      {
+        "id": "black-turtleneck-sipping-sake",
+        "name": "Cutout Turtleneck, Sipping Sake",
+        "prompt": "A close-up chest-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair tucked gracefully behind one ear. She is wearing a semi-revealing black knit turtleneck with a chest cutout. She is sitting at the omakase counter. Her body is angled slightly sideways. Her right hand delicately holds a tiny ceramic sake cup near her lips, while her left hand rests softly on the wooden table surface. She is looking directly into the camera lens with a sophisticated, calm expression. The background is a highly blurred expanse of warm, glowing wooden textures and chefs working in motion blur. Studio-quality High Dynamic Range (HDR) lighting. Soft, diffused tungsten ambient light wraps evenly around her face, preventing harsh shadows, while a sharp, bright pinpoint reflection gleams on the edge of the ceramic cup. Photorealistic, 85mm portrait lens, very shallow depth of field."
+      },
+      {
+        "id": "white-blouse-laughing-counter",
+        "name": "White Blouse, Laughing at Counter",
+        "prompt": "A medium shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing pristine white silk blouse unbuttoned at the top. She is leaning forward enthusiastically against the sushi counter. Both of her elbows are planted firmly on the wood, supporting her upper body weight, while her hands are lightly clasped together near her chin. She is looking off-camera to her left, caught in a highly natural, mid-action laugh. The background features highly detailed, out-of-focus shelves stacked with ornate Japanese dishware. Studio-quality High Dynamic Range (HDR) lighting. A warm, directional downlight perfectly illuminates her face and the crisp white silk of her blouse, bouncing off the polished wooden counter to provide a flattering, soft under-glow that entirely eliminates heavy under-eye shadows. Photorealistic, 50mm lens, slightly low angle."
+      },
+      {
+        "id": "lace-camisole-waiting-patiently",
+        "name": "Lace Camisole, Waiting Patiently",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair flowing loosely down her back. She is wearing a semi-revealing dark green lace camisole under an open, oversized blazer. She is sitting comfortably at the edge of the omakase bar. Her weight rests fully back into her chair. Her right arm rests casually on the armrest, while her left hand is gracefully adjusting the thin lace strap on her shoulder. She is looking down at the empty wooden plate in front of her with a soft, peaceful gaze. The background shows the geometric precision of the wooden restaurant interior. Studio-quality High Dynamic Range (HDR) lighting. The lighting is incredibly soft and diffused, creating a serene, moody atmosphere. A gentle ambient glow from a hidden light strip under the counter beautifully illuminates her torso, while a soft rim light traces the curve of her neck and hair. Photorealistic, 85mm lens, chest-level angle."
+      },
+      {
+        "id": "black-cheongsam-reaching-sauce",
+        "name": "Black Cheongsam, Reaching for Sauce",
+        "prompt": "A medium shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair pinned up elegantly. She is wearing a semi-revealing black backless modern cheongsam. She is leaning slightly across the sleek wooden sushi counter. Her weight is supported by her left forearm resting flat on the wood, while her right arm extends out, her fingers delicately grasping the neck of a small porcelain soy sauce dispenser. She is looking intently at the dispenser with a focused gaze. The background features a warmly lit, softly blurred display of premium sake bottles. Studio-quality High Dynamic Range (HDR) lighting. A warm overhead tungsten spotlight provides the key light, sculpting her cheekbones and casting a soft specular highlight on the black silk dress, while soft ambient light prevents harsh shadows. Photorealistic, 50mm lens, eye-level angle."
+      },
+      {
+        "id": "cashmere-vneck-resting-head",
+        "name": "Cashmere V-Neck, Resting Head",
+        "prompt": "A close-up chest-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing plunging V-neck cashmere sweater. She is sitting at the omakase bar. Her left elbow rests firmly on the counter, with the knuckles of her left hand gently supporting her chin and bearing the weight of her head. Her right hand rests on the table, her index finger lightly tracing the rim of a ceramic teacup. She is looking thoughtfully off-camera to the right with a soft, dreamy expression. The background is a dense, warm blur of bamboo textures. Studio-quality High Dynamic Range (HDR) lighting. Diffused frontal lighting wraps around her face for a flawless, soft glow, while a hidden warm LED strip beneath the counter provides a gentle upward fill light to erase any under-eye shadows. Photorealistic, 85mm portrait lens, shallow depth of field."
+      },
+      {
+        "id": "knit-dress-holding-fan",
+        "name": "Knit Dress, Holding Paper Fan",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair cascading over one shoulder. She is wearing a semi-revealing off-shoulder beige knit dress. She is sitting perfectly upright on a wooden stool at the sushi bar, her core supporting her posture. Her right hand holds an elegant paper folding fan half-opened against her chest, while her left hand rests softly palm-up in her lap. She is looking directly into the camera lens with a polite, sophisticated smile. The background shows out-of-focus patrons and chefs in a bustling, high-end environment. Studio-quality High Dynamic Range (HDR) lighting. A soft, warm directional light from the left acts as the key light, casting subtle shadows on the right side of her face, while a cool ambient glow from an open window off-camera provides a sharp rim light along her dark hair. Photorealistic, 50mm lens, sitting level."
+      },
+      {
+        "id": "silk-halter-taking-photo",
+        "name": "Silk Halter, Taking a Photo",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing silver silk halter top. She is sitting at the omakase counter. Both of her hands are raised to chest level, firmly holding a sleek modern smartphone horizontally to take a photograph of the sushi platter sitting on the table in front of her. Her body leans slightly forward, her weight balanced on her core. She is looking directly at the glowing phone screen with a concentrated expression. The background is a moody, blurred restaurant interior. Studio-quality High Dynamic Range (HDR) lighting. The bright, cool white light emitting from the phone screen acts as an incredibly dynamic under-light, illuminating her face and the silk of her top, contrasting beautifully with the warm, dim ambient tungsten lighting of the restaurant behind her. Photorealistic, 35mm lens, slight high angle looking down."
+      }
+    ]
+  },
+  {
+    "id": "neon-cyberpunk-alley",
+    "name": "Neon Cyberpunk Alleyway",
+    "variations": [
+      {
+        "id": "techwear-leaning-vending-machine",
+        "name": "Techwear, Leaning on Vending Machine",
+        "prompt": "A full-body shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing black techwear crop top and holographic vinyl cargo pants. She is leaning her back firmly against a brightly glowing, graffiti-covered vending machine in a dense cyberpunk alleyway. Her left foot is planted flat, while her right knee is bent with the sole of her heavy combat boot pressed against the metal machine to support her weight. Both of her hands rest casually inside her pants pockets. She is looking directly into the camera lens with a fierce, edgy expression. The foreground features blurred, falling rain, while the background reveals towering skyscrapers and thick, hazy smog. Studio-quality High Dynamic Range (HDR) lighting. The vivid cyan and magenta glow from the vending machine provides a harsh, dramatic side key light, creating sharp specular reflections on her wet skin and vinyl pants, while deep, moody shadows dominate her opposite side. Photorealistic, 35mm lens, slight low angle."
+      },
+      {
+        "id": "vinyl-jacket-squatting-puddle",
+        "name": "Vinyl Jacket, Squatting by Puddle",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair pinned up messily. She is wearing a semi-revealing clear holographic vinyl jacket over a crimson bralette. She is squatting gracefully next to a large rain puddle on the cracked asphalt. Her weight is balanced on the balls of her feet. Her left hand rests on her knee for balance, while her right hand reaches down, index finger lightly touching the surface of the glowing puddle, sending out tiny ripples. She is looking down at the vivid neon reflection in the water with an intense, curious gaze. The background is a labyrinth of exposed pipes and glowing storefronts. Studio-quality High Dynamic Range (HDR) lighting. Strong under-lighting bounces up from the neon-lit puddle, illuminating her face from below with a vibrant pink hue, contrasting sharply with the cool cyan rim light hitting her back from a distant streetlamp. Photorealistic, 50mm lens, eye-level with her squatting position."
+      },
+      {
+        "id": "cyber-bodysuit-holding-umbrella",
+        "name": "Bodysuit, Holding Glowing Umbrella",
+        "prompt": "A medium shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair clinging slightly to her wet neck. She is wearing a semi-revealing asymmetric cyberpunk bodysuit. She is standing perfectly straight in the middle of a bustling, futuristic street. Her right hand grips the illuminated handle of a transparent, glowing umbrella, holding it directly over her head, while her left arm hangs relaxed at her side. Her body is angled away from the camera, but her head is turned back exactly 45 degrees, looking directly over her shoulder at the lens with a piercing, dramatic stare. The background is a chaotic blur of flying vehicles and dense neon advertisements. Studio-quality High Dynamic Range (HDR) lighting. The umbrella itself emits a soft, diffused white key light straight down onto her face and shoulders, perfectly separating her from the highly saturated, chaotic, and colorful background. Rain streaks catch the light, adding incredible texture. Photorealistic, 85mm lens, chest-level angle."
+      },
+      {
+        "id": "crop-top-adjusting-collar",
+        "name": "Crop Top, Adjusting Collar",
+        "prompt": "A close-up head-and-shoulders shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing distressed grey crop top beneath a heavy, oversized leather jacket with a high collar. She is standing stationary in the alley. Both of her hands are raised to her neck, actively gripping and popping the high collar of the leather jacket upwards against the rain. She is looking sharply upward at a massive glowing holographic billboard positioned off-camera. The background is a dense, moody wall of wet brick and glowing neon Kanji signs heavily blurred out of focus. Studio-quality High Dynamic Range (HDR) lighting. A massive, brilliant orange neon sign from above casts a warm, dramatic top-light across her face, creating a cinematic, Blade Runner aesthetic, while the dark leather of her jacket absorbs the light perfectly, preventing blown-out highlights. Photorealistic, 85mm lens, slight low angle."
+      },
+      {
+        "id": "reflective-windbreaker-sitting-crate",
+        "name": "Windbreaker, Sitting on Crate",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair wet from the rain. She is wearing a semi-revealing metallic reflective windbreaker left unzipped over a black sports bra. She is sitting on a damp metallic shipping crate in a dark alleyway. Her weight rests fully on the crate. Both of her hands rest casually between her slightly parted knees. She is looking sharply upward at an off-camera flying drone with an intense, calculated stare. The background features heavy, volumetric rain falling against glowing holographic advertisements. Studio-quality High Dynamic Range (HDR) lighting. A bright cyan beam from above serves as a dramatic key light, reflecting harshly off the metallic windbreaker and the wet skin of her chest, while a warm magenta neon glow from a nearby sign acts as a soft rim light on her right side. Photorealistic, 50mm lens, slight low angle."
+      },
+      {
+        "id": "strappy-bralette-wiping-rain",
+        "name": "Strappy Bralette, Wiping Rain",
+        "prompt": "A close-up head-and-shoulders shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair clinging to her neck. She is wearing a semi-revealing strappy black tactical bralette. She is standing upright in a neon-drenched street. Her left hand is raised, the back of her wrist actively wiping rainwater off her cheek, while her right arm hangs relaxed out of frame. She is looking directly into the camera lens with an exhausted but fiercely determined expression. The background is a bokeh wall of overlapping, hyper-saturated neon Kanji signs. Studio-quality High Dynamic Range (HDR) lighting. A vivid magenta light strikes her face from the left side, illuminating the water droplets on her skin, completely balanced by a deep, contrasting cyan rim light on her right shoulder and hair. Photorealistic, 85mm lens, exact eye level."
+      },
+      {
+        "id": "asymmetric-tank-leaning-motorcycle",
+        "name": "Asymmetric Tank, Leaning on Motorcycle",
+        "prompt": "A full-body shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing asymmetric white tank top and dark cargo pants with straps. She is leaning casually against the side of a sleek, glowing hover-motorcycle parked in a wet alley. Her right hip and thigh bear her weight firmly against the chassis. Both of her arms are confidently crossed over her chest. She is looking directly at the camera with a bold, challenging smirk. The background shows distant neon street food stalls and wet, reflective pavement. Studio-quality High Dynamic Range (HDR) lighting. The motorcycle's glowing blue accent lights cast a stark up-light onto her legs and torso, while a warm orange streetlamp provides a soft, cinematic down-light that perfectly highlights her face and hair. Photorealistic, 35mm lens, chest-level angle."
+      },
+      {
+        "id": "tactical-harness-looking-balcony",
+        "name": "Tactical Harness, Looking from Balcony",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair pulled back tight. She is wearing a semi-revealing olive green crop top under a tactical chest harness. She is standing at the edge of a rusty metal fire escape balcony. She is leaning forward, her weight supported by both of her hands gripping the top railing tightly. Her body faces the railing, and her head is angled downwards. She is looking intently down at the bustling, neon-lit street far below. The background is a dizzying drop into the futuristic city canyon, filled with flying vehicles and glowing smog. Studio-quality High Dynamic Range (HDR) lighting. The ambient glow from the city below provides a massive, soft up-light across her face and chest, while a harsh, flickering fluorescent tube above her acts as a sharp, cool-toned rim light on the top of her head. Photorealistic, 50mm lens, slight high angle looking down at her."
+      }
+    ]
+  }
+]

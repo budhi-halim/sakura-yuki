@@ -1,0 +1,94 @@
+[
+  {
+    "id": "aurora-projection-exhibit",
+    "name": "Immersive Aurora Projection Exhibit",
+    "variations": [
+      {
+        "id": "black-bodysuit-touching-wall",
+        "name": "Black Bodysuit, Touching Wall",
+        "prompt": "A full-body shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair perfectly straightened. She is wearing a semi-revealing, form-fitting black sleeveless bodysuit. She is standing in a pitch-black, modern digital art gallery. Her weight rests on her left leg. Her right arm is extended, with her palm pressed flat against a massive wall displaying a fluid, moving projection of the aurora borealis. Her left hand rests casually on her hip. She is looking directly at her hand on the wall with a mesmerized, calm expression. The background is a seamless, dark architectural space flooded with shifting light. Studio-quality High Dynamic Range (HDR) lighting. The vibrant green and purple projected light acts as a massive, wrap-around key light, painting vivid, glowing patterns directly onto her white skin and the dark fabric of her bodysuit, completely illuminating the scene without harsh shadows. Photorealistic, 35mm lens, chest-level angle."
+      },
+      {
+        "id": "silver-slip-sitting-floor",
+        "name": "Silver Slip, Sitting on Floor",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing metallic silver slip dress. She is sitting on the highly polished, reflective dark concrete floor of the projection room. Her weight leans back onto both of her hands, palms planted firmly on the floor behind her. Her legs are gracefully bent and tucked to one side. Her head is tilted back, looking straight up toward the ceiling with a serene, awestruck gaze. The environment is entirely defined by swirling, procedural light patterns. Studio-quality High Dynamic Range (HDR) lighting. The overhead projection acts as a soft top-light, casting deep cinematic shadows under her chin, while the polished concrete floor mirrors the projection, bouncing a brilliant, colorful fill light upward to flawlessly expose her face. Photorealistic, 50mm lens, low angle."
+      },
+      {
+        "id": "white-crop-looking-camera",
+        "name": "White Crop, Looking at Camera",
+        "prompt": "A close-up chest-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair cascading over her shoulders. She is wearing a semi-revealing crisp white crop top. She is standing perfectly still in the center of the exhibit. Her left hand is raised to her collarbone, lightly touching the fabric of her top, while her right arm hangs relaxed. Her chest faces the camera, and she is looking directly into the lens with an intense, captivating stare. The background is a heavily blurred, swirling vortex of cyan and magenta light projections. Studio-quality High Dynamic Range (HDR) lighting. A concentrated beam of cyan light strikes the side of her face, acting as a dramatic key light, while a soft magenta ambient light fills the opposite shadows. The white fabric of her top brilliantly catches and diffuses the projected colors. Photorealistic, 85mm lens, exact eye level."
+      },
+      {
+        "id": "mesh-top-leaning-pedestal",
+        "name": "Mesh Top, Leaning on Pedestal",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing black mesh long-sleeve top over a dark bralette. She is leaning against a sleek, matte black exhibition pedestal. Her right forearm rests horizontally across the top of the pedestal, fully bearing her upper body weight. Her left hand gently rests over her right wrist. She is looking slightly off-camera to the left with a confident, relaxed smirk. The background is entirely cloaked in shadow, emphasizing the isolated pools of colored light. Studio-quality High Dynamic Range (HDR) lighting. A sharp, focused projection of swirling fiery orange light sweeps across her torso and face, creating incredible, high-contrast chiaroscuro shadows that sculpt her jawline, while a separate beam provides a subtle blue rim light on her dark hair. Photorealistic, 50mm lens, eye level."
+      },
+      {
+        "id": "satin-blouse-arms-crossed",
+        "name": "Satin Blouse, Arms Crossed",
+        "prompt": "A medium shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair tucked neatly behind her ears. She is wearing a semi-revealing unbuttoned navy satin blouse. She is standing squarely facing the camera. Both of her arms are confidently crossed over her midriff, her hands naturally resting on her arms. Her head is tilted slightly down, but her eyes look sharply upward directly into the camera lens with a fierce, calculating gaze. The background shows complex, geometric laser grids projected through a thin atmospheric haze. Studio-quality High Dynamic Range (HDR) lighting. A bright, geometric grid of light projects directly onto her face and chest, acting as the primary light source and creating sharp, futuristic shadow lines across her skin. The glossy satin material reflects crisp specular highlights from the surrounding lasers. Photorealistic, 85mm lens, slight high angle looking down."
+      },
+      {
+        "id": "lace-corset-walking-forward",
+        "name": "Lace Corset, Walking Forward",
+        "prompt": "A full-body shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair flowing gently behind her. She is wearing a semi-revealing dark plum lace corset and wide-leg black trousers. She is captured mid-stride, walking slowly toward the camera across the exhibit floor. Her left foot is planted securely, her right leg trailing naturally. Her arms swing softly at her sides, with her fingers lightly brushing against an invisible wall of projected light. She is looking straight ahead with a focused, elegant expression. The background features towering vertical columns of projected light stretching into the dark ceiling. Studio-quality High Dynamic Range (HDR) lighting. Dynamic side-lighting from the vertical projections catches the side of her face and the intricate textures of the lace corset, providing a brilliant contour light, while the dark room absorbs all other ambient light to maintain a deep, cinematic contrast. Photorealistic, 35mm lens, waist-level angle."
+      },
+      {
+        "id": "leather-jacket-holding-glasses",
+        "name": "Leather Jacket, Holding Glasses",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing charcoal ribbed knit top beneath an open black leather jacket. She is sitting sideways on a minimalist, backless concrete bench. Her body weight rests fully on the bench. Her left arm rests casually on her thigh. Her right hand is raised, her fingers elegantly holding a pair of sleek black sunglasses by the temple piece. She is looking thoughtfully past the camera toward a moving light display. The room is filled with slowly shifting, nebulous color clouds. Studio-quality High Dynamic Range (HDR) lighting. A soft, enveloping purple and teal light source provides broad, diffused illumination that flatters her skin perfectly. The leather jacket exhibits sharp, distinct specular reflections along the shoulders and arms, highlighting its thick texture. Photorealistic, 50mm lens, sitting level."
+      },
+      {
+        "id": "holographic-skirt-touching-hair",
+        "name": "Holographic Skirt, Touching Hair",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing white bralette and a holographic reflective high-waisted skirt. She is standing perfectly upright. Her left arm is raised, the back of her hand lightly resting against the side of her neck, her fingers tangling slightly in her dark hair. Her right hand rests firmly on her hip. She is looking directly into the lens with a soft, inviting smile. The background is a dense, out-of-focus explosion of vibrant, colorful particles suspended in the air. Studio-quality High Dynamic Range (HDR) lighting. A bright, warm white spotlight perfectly isolates her face from the colorful background, serving as a clean key light, while the intense colors of the room bounce off the holographic skirt, creating incredible, iridescent specular reflections. Photorealistic, 85mm lens, exact eye level."
+      }
+    ]
+  },
+  {
+    "id": "lush-tropical-waterfall",
+    "name": "Lush Tropical Waterfall",
+    "variations": [
+      {
+        "id": "green-bikini-sitting-rock",
+        "name": "Green Bikini, Sitting on Wet Rock",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair completely soaked and clinging to her back. She is wearing a semi-revealing emerald green bikini. She is sitting gracefully on a massive, smooth, dark grey river rock surrounded by rushing water. Her body weight rests entirely on the stone. Her right hand is planted flat on the wet rock behind her for support, while her left hand is extended, letting the rushing river water flow gently over her delicate fingers. She is looking down at the moving water with a serene, joyful smile. The background is a dense tropical jungle gorge with a cascading waterfall plunging into the pool, filling the air with a thick, cinematic mist. Studio-quality High Dynamic Range (HDR) lighting. Dappled morning sunlight breaks through the jungle canopy above, acting as a soft, natural spotlight perfectly illuminating her face and torso. Sharp, crisp specular highlights reflect off her wet skin and the rushing water. Photorealistic, 50mm lens, slight high angle."
+      },
+      {
+        "id": "white-linen-walking-log",
+        "name": "White Linen, Walking on Log",
+        "prompt": "A full-body shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing, lightweight white linen button-down shirt, completely unbuttoned over a white swimsuit. She is walking barefoot, balancing carefully along a massive, moss-covered fallen mahogany log bridging the river. Her right foot is planted firmly on the bark, while her left foot is lifted mid-step. Both of her arms are extended slightly out to her sides for balance, her fingers relaxed. She is looking straight ahead, focusing intently on her path. The background is a deep, layered blur of giant fern leaves and ancient, vine-covered trees. Studio-quality High Dynamic Range (HDR) lighting. Soft, diffused ambient light filters heavily through the green leaves, wrapping evenly around her body without harsh shadows. A beam of golden sunlight cuts through the mist in the background, creating a gorgeous rim light on the edge of her hair. Photorealistic, 35mm lens, chest-level angle."
+      },
+      {
+        "id": "crochet-top-leaning-boulder",
+        "name": "Crochet Top, Leaning on Mossy Boulder",
+        "prompt": "A medium shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair tucked casually behind one ear. She is wearing a semi-revealing beige crochet halter top and denim cut-off shorts. She is standing waist-deep in a calm, clear emerald pool. She is leaning with her left shoulder and hip pressed firmly against a towering, wet boulder covered in thick green moss, supporting her weight. Her right arm rests across her midriff, while her left hand lightly traces the wet moss. She is looking directly into the camera lens with a calm, magnetic gaze. The background features heavy, dripping jungle foliage. Studio-quality High Dynamic Range (HDR) lighting. A focused ray of afternoon sun penetrates the canopy, perfectly lighting the right side of her face and casting a distinct, natural shadow on the left side, mimicking classic Rembrandt studio lighting in a natural setting. Photorealistic, 85mm portrait lens, eye-level angle."
+      },
+      {
+        "id": "red-swimsuit-kneeling-splash",
+        "name": "Red Swimsuit, Kneeling and Splashing",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair wet and swept back from her face. She is wearing a semi-revealing vibrant red one-piece swimsuit with a plunging neckline. She is kneeling in the shallow, rocky edge of the waterfall pool. Her torso faces the camera directly. Both of her hands are raised mid-air, having just splashed water playfully toward the lens; thousands of individual, frozen water droplets are suspended in the air around her hands. She is looking directly at the camera with a brilliant, wide, candid laugh. The background is the roaring white water of the main waterfall drop. Studio-quality High Dynamic Range (HDR) lighting. The bright, overcast sky provides massive, soft frontal illumination, completely eliminating harsh shadows on her face. The frozen water droplets act as tiny prisms, catching the light brilliantly. Photorealistic, 50mm lens, fast shutter speed, slight high angle."
+      },
+      {
+        "id": "floral-sarong-looking-canopy",
+        "name": "Floral Sarong, Looking at Canopy",
+        "prompt": "A close-up chest-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing tropical floral bikini top with a matching sarong tied at her waist. She is standing near the misty base of the falls. Her chest is angled slightly away from the camera, but her head is tilted back, looking straight up into the towering jungle canopy with an expression of pure awe. Both of her hands are delicately pressed together in front of her chest, resting just beneath her chin. The background is a dense, out-of-focus wall of dark green, wet monstera leaves. Studio-quality High Dynamic Range (HDR) lighting. A bright shaft of sunlight drops straight down from the canopy, acting as an intense top key light that perfectly highlights her cheekbones and the bridge of her nose, while the lush green surroundings cast a soft, natural color bounce onto her jawline. Photorealistic, 85mm lens, slight low angle."
+      },
+      {
+        "id": "black-one-piece-under-falls",
+        "name": "Black One-Piece, Under Waterfall Edge",
+        "prompt": "A medium-full shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair completely drenched. She is wearing a semi-revealing sleek black one-piece swimsuit with side cutouts. She is sitting on a rock ledge directly underneath the outer edge of the waterfall. A steady, heavy curtain of water pours down just inches behind her back, partially splashing her shoulders. Her body faces forward. Her hands are resting firmly on the wet stone on either side of her hips to brace her weight against the wind generated by the falls. She has her eyes closed, her face tilted slightly up, basking in the heavy mist. The environment is dark, wet, and highly atmospheric. Studio-quality High Dynamic Range (HDR) lighting. The light is cool and moody. A soft, ambient directional light from the open canyon illuminates her face, while the cascading water behind her acts as a bright, glowing backdrop, creating a stark, dramatic silhouette effect on her dark hair. Photorealistic, 35mm lens, eye-level angle."
+      },
+      {
+        "id": "sheer-coverup-holding-leaf",
+        "name": "Sheer Coverup, Holding Giant Leaf",
+        "prompt": "A half-body waist-up shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair. She is wearing a semi-revealing sheer white beach coverup draped loosely over her shoulders, revealing a yellow bikini top underneath. She is standing on the muddy riverbank. Both of her hands are extended forward, gently holding the edges of a massive, vibrant green elephant ear leaf positioned near her waist. She is looking down at the intricate veins of the leaf with a gentle, curious expression. The background features ancient tree roots tangling down into the river. Studio-quality High Dynamic Range (HDR) lighting. The giant leaf acts as a natural bounce board, reflecting a soft, warm, green-tinted fill light up onto her face, completely softening the shadows from the dappled sunlight coming from above. Photorealistic, 50mm lens, chest-level angle."
+      },
+      {
+        "id": "denim-shorts-adjusting-strap",
+        "name": "Denim Shorts, Adjusting Strap",
+        "prompt": "A full-body shot of a beautiful Asian woman with a svelte and subtly toned physique, white skin tone, and long dark brown hair pulled over one shoulder. She is wearing a semi-revealing white ribbed camisole and unbuttoned denim shorts. She is standing ankle-deep in a calm section of the river. Her right leg bears her weight, her hip popped slightly to the side. Her left hand is resting flat on her upper thigh. Her right hand is raised, her fingers carefully adjusting the thin shoulder strap of her camisole. She is looking directly into the camera lens with a soft, inviting gaze. The background is a breathtaking wide view of the serene river winding into the deep jungle. Studio-quality High Dynamic Range (HDR) lighting. Bright, clear natural sunlight strikes her from a 45-degree angle, providing perfect, classic portrait lighting with a beautiful catchlight in her eyes, while the calm river water perfectly reflects her legs. Photorealistic, 35mm lens, waist-level angle."
+      }
+    ]
+  }
+]
